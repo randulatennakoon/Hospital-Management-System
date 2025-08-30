@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36127.28
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HMS_APP_001", "HMS_APP_001.csproj", "{D7BB17D6-4350-4401-9ABC-3E6A916AB598}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "HMS System", "..\HMS System\HMS System.vdproj", "{23384458-49A5-838E-382B-D146EB078592}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D7BB17D6-4350-4401-9ABC-3E6A916AB598}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7BB17D6-4350-4401-9ABC-3E6A916AB598}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7BB17D6-4350-4401-9ABC-3E6A916AB598}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7BB17D6-4350-4401-9ABC-3E6A916AB598}.Release|Any CPU.Build.0 = Release|Any CPU
+		{23384458-49A5-838E-382B-D146EB078592}.Debug|Any CPU.ActiveCfg = Debug
+		{23384458-49A5-838E-382B-D146EB078592}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {38E3F03A-157A-46B6-B8C9-F3944A353D7C}
+	EndGlobalSection
+EndGlobal
