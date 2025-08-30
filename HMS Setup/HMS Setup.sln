@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36127.28 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "HMS Setup", "HMS Setup.vdproj", "{195B5ADC-4384-0A54-E2AB-4129CB89E969}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{195B5ADC-4384-0A54-E2AB-4129CB89E969}.Debug|Default.ActiveCfg = Debug
+		{195B5ADC-4384-0A54-E2AB-4129CB89E969}.Debug|Default.Build.0 = Debug
+		{195B5ADC-4384-0A54-E2AB-4129CB89E969}.Release|Default.ActiveCfg = Release
+		{195B5ADC-4384-0A54-E2AB-4129CB89E969}.Release|Default.Build.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F56E1686-8C2E-4266-9B98-0C6AA9F97AB7}
+	EndGlobalSection
+EndGlobal
